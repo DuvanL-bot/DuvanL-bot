@@ -76,8 +76,8 @@ I'm a **junior developer** with a real passion for technology — I love buildin
 
 Full-stack e-commerce application with a Node.js/Express REST API and a React frontend. Features JWT authentication, product catalog management, shopping cart, wishlist, and password recovery via email.
 
-**Backend:** `Node.js` `Express` `PostgreSQL` `JWT`[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00FF7F)]("https://github.com/DuvanL-bot/BadckendShop.git") <br>
-**Frontend:** `React` `JavaScript` <br> [![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00FF7F)]("https://github.com/DuvanL-bot/EjercicioReact.git")
+**Backend:** `Node.js` `Express` `PostgreSQL` `JWT`[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00FF7F)](https://github.com/DuvanL-bot/BadckendShop.git) <br>
+**Frontend:** `React` `JavaScript` <br> [![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00FF7F)](https://github.com/DuvanL-bot/EjercicioReact.git)
 
 </td>
 <td width="40%">
