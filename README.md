@@ -69,17 +69,18 @@ I'm a **junior developer** with a real passion for technology — I love buildin
 <div align="center">
 
 <table>
-<tr>
+<tr >
 <td width="50%">
+    
+### 🛒 [E-Commerce Platform]
 
-### 🛒 E-Commerce Platform
 Full-stack e-commerce application with a Node.js/Express REST API and a React frontend. Features JWT authentication, product catalog management, shopping cart, wishlist, and password recovery via email.
 
-**Backend:** `Node.js` `Express` `PostgreSQL` `JWT`
-**Frontend:** `React` `JavaScript`
+**Backend:** `Node.js` `Express` `PostgreSQL` `JWT`[![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00FF7F)]("https://github.com/DuvanL-bot/BadckendShop.git") <br>
+**Frontend:** `React` `JavaScript` <br> [![Repo](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=00FF7F)]("https://github.com/DuvanL-bot/EjercicioReact.git")
 
 </td>
-<td width="50%">
+<td width="40%">
 
 ### 📞 Call Dataset Classifier
 Machine Learning project that analyzes a call dataset and classifies outcomes using a **Random Forest** model. Focused on data preprocessing, feature engineering, and model evaluation.
